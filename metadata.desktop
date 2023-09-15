@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Pisilinux 2.3.4
+Description=Pisilinux 2.3.4 SDDM theme
+Type=sddm-theme
+Author=Erkan IŞIK
+ImageCreator=Murat Özgün
+Copyright=(c) 2023, Erkan IŞIK
+Screenshot=screenshot.jpg
+License=GPL
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=pisilinux2.3.4
+Theme-API=2.0
+Website=https://github.com/erkanisik1/pisilinux234-sddm-theme
+
